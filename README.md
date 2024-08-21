@@ -1,10 +1,16 @@
-## Hi there 👋
+# Bio
+I am a young biostatistician, currently working at Glubenkian Institute for Mulecular Medicine.  
+
+## Skills
++ R
++ SQL
++ Phyton
+
+## Education
++ Applied Statistics (FCUL)
++ Biostatistics (FCUL)
 
 <!--
-**joao-artur-brandao/joao-artur-brandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
